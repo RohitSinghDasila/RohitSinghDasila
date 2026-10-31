@@ -4,7 +4,9 @@ name: Update Recent Activity
 on:
   schedule:
     - cron: "0 */6 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -28,3 +30,6 @@ jobs:
         uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: RohitSinghDasila
+          CONFIG_FILE: .github/recent-activity.config.yml

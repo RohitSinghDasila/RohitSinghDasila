@@ -1,3 +1,4 @@
+
 name: .NET Build
 
 on:
@@ -15,16 +16,45 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup .NET
+      - name: Setup .NET SDK
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '8.0.x'
+          dotnet-version: |
+            8.0.x
+            9.0.x
 
-      - name: Restore
-        run: dotnet restore
+      - name: Display .NET Information
+        run: dotnet --info
 
-      - name: Build
-        run: dotnet build --no-restore
+      - name: Locate Solution or Project
+        id: locate
+        shell: bash
+        run: |
+          FILE=$(find . -maxdepth 5 \
+            \( -name "*.sln" -o -name "*.slnx" \) \
+            -not -path "*/obj/*" \
+            -not -path "*/bin/*" | head -n 1)
+
+          if [ -z "$FILE" ]; then
+            FILE=$(find . -maxdepth 5 \
+              -name "*.csproj" \
+              -not -path "*/obj/*" \
+              -not -path "*/bin/*" | head -n 1)
+          fi
+
+          if [ -z "$FILE" ]; then
+            echo "ERROR: No .NET solution or project file found."
+            exit 1
+          fi
+
+          echo "Found project: $FILE"
+          echo "project=$FILE" >> "$GITHUB_OUTPUT"
+
+      - name: Restore Dependencies
+        run: dotnet restore "${{ steps.locate.outputs.project }}"
+
+      - name: Build Application
+        run: dotnet build "${{ steps.locate.outputs.project }}" --configuration Release --no-restore

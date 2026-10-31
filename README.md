@@ -1,16 +1,14 @@
 <!-- ================================================== -->
-<!-- ROHIT SINGH DASILA | MODERN DARK GITHUB PROFILE -->
+<!-- ROHIT SINGH DASILA | MODERN DARK PROFILE README -->
 <!-- ================================================== -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,35:1E1B4B,70:312E81,100:2563EB&text=ROHIT%20SINGH%20DASILA&fontColor=FFFFFF&fontSize=43&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20ENGINEER&descAlignY=62&descSize=15&animation=fadeIn" />
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile;Building+Scalable+Software+Solutions;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Java+%7C+Android+%7C+Kotlin;PHP+%7C+Laravel+%7C+React;Code.+Create.+Innovate.+Repeat." alt="Animated introduction" />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/RohitSinghDasila">
 <img src="https://img.shields.io/badge/GitHub-Profile-18181B?style=for-the-badge&logo=github&logoColor=white" />
@@ -32,98 +30,114 @@
 
 ## 👨‍💻 About Me
 
+I'm **Rohit Singh Dasila**, a software developer passionate about building scalable, reliable and user-focused software applications.
+
+I work across multiple technology stacks, developing backend systems, database-driven applications, modern web applications and Android applications.
+
+My focus is on practical problem-solving, clean code, performance optimisation and continuous learning.
+
 ```yaml
 name: Rohit Singh Dasila
 role: Software Developer
-focus:
+
+specialization:
   - Full Stack Development
   - Backend Engineering
-  - Android Application Development
-  - Database Management
-  - Cloud & Server Administration
+  - Android Development
+  - Database Engineering
+  - Server Administration
 
 technologies:
   - C#
   - ASP.NET Core
   - Java
   - Android
+  - Kotlin
   - PHP
   - Laravel
   - React
   - SQL Server
 
-currently_exploring:
-  - Modern .NET Development
+interests:
   - AI-Assisted Development
-  - Mobile Application Technologies
   - Cloud Infrastructure
+  - Software Architecture
 ```
-
-I'm a software developer passionate about building scalable, reliable and user-focused software applications.
-
-I enjoy working across multiple technology stacks, developing backend systems, designing database-driven applications and creating modern web and mobile experiences.
-
-My approach combines practical problem-solving, clean code, performance optimisation and continuous learning.
 
 ---
 
 ## ⚡ What I Build
 
+<p align="center">
+  <i>Engineering digital solutions across multiple technology stacks.</i>
+</p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web Applications
+<h3>🌐 WEB DEVELOPMENT</h3>
 
-- ASP.NET Core MVC
-- ASP.NET Core Web API
-- ASP.NET MVC
+Building modern, responsive and scalable web applications.
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,react,js&theme=dark" />
+
+- ASP.NET Core MVC & Web API
+- C# & ASP.NET MVC
 - PHP & Laravel
 - React & JavaScript
-- Responsive Web Design
+- RESTful API Development
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Mobile Applications
+<h3>📱 MOBILE DEVELOPMENT</h3>
 
-- Android Development
-- Java Programming
-- Kotlin Development
+Developing Android applications and connected mobile solutions.
+
+<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin&theme=dark" />
+
+- Android Application Development
+- Java & Kotlin
 - REST API Integration
 - Mobile Backend Integration
-- Android App Deployment
+- Application Deployment
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ Database Engineering
+<h3>🗄️ DATABASE ENGINEERING</h3>
+
+Designing and managing reliable database-driven applications.
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
 - Microsoft SQL Server
 - MySQL & MariaDB
-- PostgreSQL
-- Supabase
+- PostgreSQL & Supabase
 - Stored Procedures
-- Query Optimisation
+- Database Optimisation
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Infrastructure & Deployment
+<h3>☁️ INFRASTRUCTURE & DEVOPS</h3>
 
-- Windows Server
-- IIS Hosting
+Managing server environments, hosting and deployments.
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,apache,docker&theme=dark" />
+
+- Windows Server & IIS
 - Linux Administration
 - Nginx & Apache
 - SSL Configuration
-- Cloud Deployment
+- Cloud Hosting & Deployment
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠️ Technology Stack
@@ -134,19 +148,13 @@ My approach combines practical problem-solving, clean code, performance optimisa
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,laravel,nodejs&theme=dark" />
 
-<br/><br/>
-
 ### Frontend & UI Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,tailwind&theme=dark" />
 
-<br/><br/>
-
 ### Android & Mobile Development
 
 <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin&theme=dark" />
-
-<br/><br/>
 
 ### Databases
 
@@ -155,13 +163,9 @@ My approach combines practical problem-solving, clean code, performance optimisa
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
-<br/><br/>
-
 ### Development Tools
 
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,github,docker,postman&theme=dark" />
-
-<br/><br/>
 
 ### Hosting & Infrastructure
 
@@ -188,6 +192,21 @@ My approach combines practical problem-solving, clean code, performance optimisa
 <a href="https://github.com/RohitSinghDasila?tab=repositories">
 <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</div>
+
+---
+
+## ⚡ Recent GitHub Activity
+
+Here is what I've been working on recently.
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<div align="center">
+
+<!--RECENT_ACTIVITY:last_update-->
 
 </div>
 
@@ -223,7 +242,7 @@ My approach combines practical problem-solving, clean code, performance optimisa
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RohitSinghDasila/RohitSinghDasila/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/RohitSinghDasila/RohitSinghDasila/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
 
 </div>
 
@@ -244,7 +263,7 @@ My approach combines practical problem-solving, clean code, performance optimisa
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Cloud-Infrastructure-2563EB?style=for-the-badge&logo=digitalocean&logoColor=white" />
-<img src="https://img.shields.io/badge/Software-Architecture-0891B2?style=for-the-badge&logo=blueprint&logoColor=white" />
+<img src="https://img.shields.io/badge/Software-Architecture-0891B2?style=for-the-badge" />
 
 </div>
 

@@ -4,25 +4,25 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,35:1E1B4B,70:312E81,100:2563EB&text=ROHIT%20SINGH%20DASILA&fontColor=FFFFFF&fontSize=43&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20ENGINEER&descAlignY=62&descSize=15&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,35:1E1B4B,70:312E81,100:2563EB&text=ROHIT%20SINGH%20DASILA&fontColor=FFFFFF&fontSize=43&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20ENGINEER&descAlignY=62&descSize=15&animation=fadeIn" alt="Rohit Singh Dasila - Software Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile;Building+Scalable+Software+Solutions;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Java+%7C+Android+%7C+Kotlin;PHP+%7C+Laravel+%7C+React;Code.+Create.+Innovate.+Repeat." alt="Animated introduction" />
 
 <br/>
 
 <a href="https://github.com/RohitSinghDasila">
-<img src="https://img.shields.io/badge/GitHub-Profile-18181B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Profile-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 <a href="https://github.com/RohitSinghDasila?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Explore-Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=RohitSinghDasila&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=RohitSinghDasila&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Full%20Stack-Development-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Mobile-Development-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Database-Engineering-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/Full%20Stack-Development-7C3AED?style=flat-square" alt="Full Stack Development" />
+<img src="https://img.shields.io/badge/Mobile-Development-2563EB?style=flat-square" alt="Mobile Development" />
+<img src="https://img.shields.io/badge/Database-Engineering-0891B2?style=flat-square" alt="Database Engineering" />
 
 </div>
 
@@ -80,7 +80,7 @@ interests:
 
 Building modern, responsive and scalable web applications.
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,react,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,react,js&theme=dark" alt="Web development stack" />
 
 - ASP.NET Core MVC & Web API
 - C# & ASP.NET MVC
@@ -95,7 +95,7 @@ Building modern, responsive and scalable web applications.
 
 Developing Android applications and connected mobile solutions.
 
-<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin&theme=dark" />
+<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin&theme=dark" alt="Mobile development stack" />
 
 - Android Application Development
 - Java & Kotlin
@@ -112,7 +112,7 @@ Developing Android applications and connected mobile solutions.
 
 Designing and managing reliable database-driven applications.
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Database stack" />
 
 - Microsoft SQL Server
 - MySQL & MariaDB
@@ -127,7 +127,7 @@ Designing and managing reliable database-driven applications.
 
 Managing server environments, hosting and deployments.
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,apache,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,apache,docker&theme=dark" alt="Infrastructure stack" />
 
 - Windows Server & IIS
 - Linux Administration
@@ -138,6 +138,7 @@ Managing server environments, hosting and deployments.
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🛠️ Technology Stack
@@ -146,34 +147,38 @@ Managing server environments, hosting and deployments.
 
 ### Backend & Programming
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,laravel,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,php,laravel,nodejs&theme=dark" alt="Backend technologies" />
 
 ### Frontend & UI Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,tailwind&theme=dark" alt="Frontend technologies" />
 
 ### Android & Mobile Development
 
-<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin&theme=dark" />
+<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin&theme=dark" alt="Mobile technologies" />
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<br/>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,github,docker,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,github,docker,postman&theme=dark" alt="Development tools" />
 
 ### Hosting & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,apache&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,apache&theme=dark" alt="Hosting technologies" />
 
-<img src="https://img.shields.io/badge/Microsoft%20IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
-<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+<br/>
+
+<img src="https://img.shields.io/badge/Microsoft%20IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Microsoft IIS" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
 
 </div>
 
@@ -184,36 +189,17 @@ Managing server environments, hosting and deployments.
 <div align="center">
 
 <a href="https://github.com/RohitSinghDasila/MedStockManagement">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RohitSinghDasila&repo=MedStockManagement&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RohitSinghDasila&repo=MedStockManagement&theme=tokyonight&hide_border=true" alt="MedStockManagement" />
+</a>
+<a href="https://github.com/RohitSinghDasila/dotnet9-social-login-demo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RohitSinghDasila&repo=dotnet9-social-login-demo&theme=tokyonight&hide_border=true" alt="dotnet9-social-login-demo" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/RohitSinghDasila?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
 </a>
-
-</div>
-
----
-
-## ⚡ Recent GitHub Activity
-
-Here is what I've been working on recently.
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [RohitSinghDasila/RohitSinghDasila](https://github.com/RohitSinghDasila/RohitSinghDasila)<br>
-2. ⬆️ Pushed undefined commit(s) to [RohitSinghDasila/RohitSinghDasila](https://github.com/RohitSinghDasila/RohitSinghDasila)<br>
-3. ⬆️ Pushed undefined commit(s) to [RohitSinghDasila/RohitSinghDasila](https://github.com/RohitSinghDasila/RohitSinghDasila)<br>
-4. ⬆️ Pushed undefined commit(s) to [RohitSinghDasila/RohitSinghDasila](https://github.com/RohitSinghDasila/RohitSinghDasila)<br>
-5. ⬆️ Pushed undefined commit(s) to [RohitSinghDasila/RohitSinghDasila](https://github.com/RohitSinghDasila/RohitSinghDasila)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<div align="center">
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 8th, 2026, 6:22:35 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 </div>
 
@@ -223,13 +209,12 @@ Last Updated: Sunday, November 8th, 2026, 6:22:35 PM
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RohitSinghDasila&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSinghDasila&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RohitSinghDasila&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSinghDasila&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=RohitSinghDasila&theme=tokyonight&hide_border=true&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" />
+<img width="75%" src="https://streak-stats.demolab.com?user=RohitSinghDasila&theme=tokyonight&hide_border=true&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" alt="GitHub streak" />
 
 </div>
 
@@ -239,7 +224,7 @@ Last Updated: Sunday, November 8th, 2026, 6:22:35 PM
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RohitSinghDasila&bg_color=0d1117&color=A78BFA&line=7C3AED&point=38BDF8&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RohitSinghDasila&bg_color=0d1117&color=A78BFA&line=7C3AED&point=38BDF8&area=true&hide_border=true" alt="Contribution graph" />
 
 </div>
 
@@ -259,18 +244,18 @@ Last Updated: Sunday, November 8th, 2026, 6:22:35 PM
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/.NET-Modern%20Development-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-Mobile%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-Modern%20Development-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/Android-Mobile%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Java-Application%20Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-Assisted%20Development-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-Application%20Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/AI-Assisted%20Development-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI-assisted development" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Cloud-Infrastructure-2563EB?style=for-the-badge&logo=digitalocean&logoColor=white" />
-<img src="https://img.shields.io/badge/Software-Architecture-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-Infrastructure-2563EB?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Cloud infrastructure" />
+<img src="https://img.shields.io/badge/Software-Architecture-0891B2?style=for-the-badge" alt="Software architecture" />
 
 </div>
 
@@ -281,17 +266,15 @@ Last Updated: Sunday, November 8th, 2026, 6:22:35 PM
 <div align="center">
 
 <a href="https://github.com/RohitSinghDasila">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:dasilarohit14@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <!-- Add your LinkedIn URL -->
 <!-- <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> -->
-
-<!-- Add your professional email -->
-<!-- <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a> -->
 
 <br/><br/>
@@ -300,6 +283,6 @@ Last Updated: Sunday, November 8th, 2026, 6:22:35 PM
 
 **Think • Build • Innovate • Repeat**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:09090B&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:09090B&height=120&section=footer" alt="" />
 
 </div>
